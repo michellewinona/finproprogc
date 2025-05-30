@@ -4,6 +4,8 @@
 #include <math.h>
 #include <time.h>
 
+// KADKAK
+
 #define MAX_PASIEN 100
 #define MAX_RIWAYAT 30
 
