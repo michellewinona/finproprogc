@@ -1,7 +1,7 @@
 # finproprogc
 
 
-| Nama                | NPM        |
+| Anggota kelompok 6                | NPM        |
 | ------------------- | ---------- |
 | Shasya Nurhaliza    | 2306251576 |
 | Michelle Winona     | 2306251525 |
